@@ -32,7 +32,8 @@ const nithya = {
   askMeAbout: ["React.js", "Next.js", "Node.js"],
   technologies: {
     Languages: ["Javascript", "Typescript"],
-    Frontend: ["React.js", "Next.js", "HTML", "CSS", "Tailwind"],
+    Frontend: ["React.js", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+    Backend: ["Node.js", "Express.js"],
     Databases: ["MongoDB", "Supabase"],
     Tools & Services: ["Git", "GitHub", "Postman"],
     Hosting: ["Netlify", "Vercel"],
